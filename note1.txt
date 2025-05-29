@@ -1,1 +1,2 @@
 This is my initial note.
+to checkout stash
